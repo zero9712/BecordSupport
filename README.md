@@ -9,7 +9,7 @@ All bug reports, feed backs, questions can be submitted on ISSUES.
 We will do everything we can to get back to you ASAP.
 
 **비코드** 사용자를 위한 페이지입니다.
-모든 버그 신고, 피드백, 질문 ISSUES(이슈)에 접수 가능합니다.
+모든 버그 신고, 피드백, 질문은 ISSUES(이슈)에 접수 가능합니다.
 최대한 빠르게 답변해드리도록 노력하겠습니다.
 
 # Contact Us
