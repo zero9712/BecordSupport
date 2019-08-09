@@ -15,10 +15,10 @@ All bug reports, feed backs, questions can be submitted on ISSUES.
 
 
 ## **Table of Contents**  
-- [Features](###features) 
-- [ComingSoon](###comingsoon)  
-- [Contact](###contact)  
-- [PrivatePolicy](###privatepolicy) 
+> - [Features](#features) 
+> - [ComingSoon](#comingsoon)  
+> - [Contact](#contact)  
+> - [PrivatePolicy](#privatepolicy) 
 
 - - - 
 <a name="features"></a>
@@ -27,21 +27,21 @@ All bug reports, feed backs, questions can be submitted on ISSUES.
 
 
 - - - 
-
+<a name="comingsoon"></a>
 ## **ComingSoon**  
 
 
 
 
 - - - 
-
+<a name="contact"></a>
 ## **Contact**  
 
 
 
 
 - - - 
-
+<a name="privatepolicy"></a>
 ## **PrivatePolicy**  
 > - [PrivatePolicy](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyUS)  
 > - [개인정보처리방침](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyKR)  
