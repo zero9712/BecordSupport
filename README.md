@@ -3,8 +3,7 @@
 _Enjoy more, play more, basketball with **BECORD**.  
 모든 농구인이 더 즐거운 농구를 할 수 있도록, **비코드**가 함께 하겠습니다._  
 
-# **What is BECORD?**  
-### **BECORD = Basketball + Record**  
+## **BECORD = Basketball + Record**  
 rewind your game with record our iOS provide at the end of the game  
 share the stat with teammates to motivate your team, compete with each other  
 
