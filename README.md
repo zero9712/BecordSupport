@@ -16,18 +16,20 @@
 
 ## **Table of Contents**  
 > - [Features](#features) 
-> - [ComingSoon](#comingsoon)  
+> - [Coming Soon](#comingsoon)  
 > - [Contact](#contact)  
-> - [PrivatePolicy](#privatepolicy) 
+> - [Privacy Policy](#privacypolicy) 
 
 - - - 
 <a name="features"></a>
 ## **Features**  
 
 <a name="comingsoon"></a>
-## **ComingSoon**  
-> - Fouls (team/personal)
-> - Flexible substitution
+## **Coming Soon**  
+> - Fouls (team/personal)   
+> you will be able to track players' fouls, and the teams'
+> - Flexible substitution  
+> you will be able to pick player getting subbed first (will work either order)
 
 
 <a name="contact"></a>
@@ -35,7 +37,7 @@
 > - gocks0922@gmail.com  <img src="https://img.shields.io/badge/BECORD-Developer-lightgrey">  
 > - zero971297@gmail.com  <img src="https://img.shields.io/badge/BECORD-Administrator-yellow">
 
-<a name="privatepolicy"></a>
-## **PrivatePolicy**  
-> - [PrivatePolicy](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyUS) 🇺🇸  
+<a name="privacypolicy"></a>
+## **Privacy Policy**  
+> - [Privacy Policy](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyUS) 🇺🇸  
 > - [개인정보처리방침](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyKR) 🇰🇷  
