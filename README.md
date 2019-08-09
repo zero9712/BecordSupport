@@ -1,10 +1,8 @@
 ![워터마크용](https://user-images.githubusercontent.com/52590935/61990550-8fb64b00-b07d-11e9-97db-d59b6dcecef2.png)  
 
-### **BECORD = Basketball + Record**  
-Alongside with BECORD, share records and motivate yourself for advanced basketball lifestyle.  
-모든 농구인들이 더 즐거운 농구를 할 수 있도록, **비코드**가 함께 하겠습니다.  
-
-- - -
+### _**BECORD = Basketball + Record**_  
+> Alongside with BECORD, share records and motivate yourself for advanced basketball lifestyle.  
+> 모든 농구인들이 더 즐거운 농구를 할 수 있도록, **비코드**가 함께 하겠습니다.  
 
 # **Support**  
 This page is to support all **BECORD** users.  
