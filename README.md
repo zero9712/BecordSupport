@@ -8,7 +8,7 @@
 
 # **Support**  
 > This page is to support all **BECORD** users.  
-> All bug reports, feed backs, questions can be submitted on ISSUES.  
+> All bug reports, feed backs, questions can be submitted on Issues.  
 > 
 > **비코드** 사용자를 위한 페이지입니다.  
 > 모든 버그 신고, 피드백, 질문은 Issues(이슈)에 접수 가능합니다.  
@@ -23,6 +23,18 @@
 - - - 
 <a name="features"></a>
 ## **Features**  
+
+> ### **1. Game Setting**
+> Add your team and choose Home\Away.  
+> Add your teammates to the team.
+>  
+> ### **2. Game**
+> Manage the game and keep score for each team and the players.  
+> Change your line-up by substituting players, go on to play next quarter.  
+>  
+> ### **3. Record**
+> Take a look at the game stat and name the game before you save it.  
+> Save the game and share the record with the team.  
 
 <a name="comingsoon"></a>
 ## **Coming Soon**  
