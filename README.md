@@ -19,9 +19,9 @@ All bug reports, feed backs, questions can be submitted on ISSUES.
 - [ComingSoon](###comingsoon)  
 - [Contact](###contact)  
 - [PrivatePolicy](###privatepolicy) 
-<!-- toc -->
-- - - 
 
+- - - 
+<a name="features"></a>
 ## **Features**  
 
 
