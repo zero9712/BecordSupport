@@ -4,6 +4,8 @@
 > Alongside with BECORD, share records and motivate yourself for advanced basketball lifestyle.  
 > 모든 농구인들이 더 즐거운 농구를 할 수 있도록, **비코드**가 함께 하겠습니다.  
 
+<img src="https://img.shields.io/badge/Build-Pass-yellowgreen"> <img src="https://img.shields.io/badge/Version-v1.0.0-brightgreen">  <img src="https://img.shields.io/badge/Sports-Basketball-red"> <img src="https://img.shields.io/badge/Sort-Utility-blue">  <img src="https://img.shields.io/badge/Developer-HET-lightgrey">  
+
 # **Support**  
 This page is to support all **BECORD** users.  
 All bug reports, feed backs, questions can be submitted on ISSUES.  
@@ -13,10 +15,10 @@ All bug reports, feed backs, questions can be submitted on ISSUES.
 
 
 ## **Table of Contents**  
-> - [Features](#features) 
-> - [ComingSoon](#comingsoon)  
-> - [Contact](#contact)  
-> - [PrivatePolicy](#privatepolicy) 
+ - [Features](#features) 
+ - [ComingSoon](#comingsoon)  
+ - [Contact](#contact)  
+ - [PrivatePolicy](#privatepolicy) 
 
 - - - 
 <a name="features"></a>
@@ -34,7 +36,8 @@ All bug reports, feed backs, questions can be submitted on ISSUES.
 - - - 
 <a name="contact"></a>
 ## **Contact**  
-
+> - gocks0922@gmail.com  <img src="https://img.shields.io/badge/BECORD-Developer-lightgrey">  
+> - zero971297@gmail.com  <img src="https://img.shields.io/badge/BECORD-Administrator-yellow">
 
 
 
