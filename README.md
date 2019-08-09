@@ -24,27 +24,15 @@ All bug reports, feed backs, questions can be submitted on ISSUES.
 <a name="features"></a>
 ## **Features**  
 
-
-
-- - - 
 <a name="comingsoon"></a>
 ## **ComingSoon**  
 
-
-
-
-- - - 
 <a name="contact"></a>
 ## **Contact**  
 > - gocks0922@gmail.com  <img src="https://img.shields.io/badge/BECORD-Developer-lightgrey">  
 > - zero971297@gmail.com  <img src="https://img.shields.io/badge/BECORD-Administrator-yellow">
 
-
-
-- - - 
 <a name="privatepolicy"></a>
 ## **PrivatePolicy**  
 > - [PrivatePolicy](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyUS)  
 > - [개인정보처리방침](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyKR)  
-
-- - - 
