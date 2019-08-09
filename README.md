@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Build-Pass-yellowgreen"> <img src="https://img.shields.io/badge/Version-v1.0.0-brightgreen">  <img src="https://img.shields.io/badge/Sports-Basketball-red"> <img src="https://img.shields.io/badge/Sort-Utility-blue">  <img src="https://img.shields.io/badge/Developer-HET-lightgrey">  
 
-### _**🏀 BECORD = Basketball + Record**_  
+### _**BECORD = Basketball + Record**_  
 > Alongside with BECORD, share records and motivate yourself for advanced basketball lifestyle.  
 > 모든 농구인들이 더 즐거운 농구를 할 수 있도록, **비코드**가 함께 하겠습니다.  
 
