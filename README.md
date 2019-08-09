@@ -16,8 +16,34 @@ All bug reports, feed backs, questions can be submitted on ISSUES.
 
 ## **Table of Contents**  
 - [Features](###Features) 
-- [ComingSoon](###ComingSoon) 
-- [Contact](###Contact) 
-- [PrivatePolicy](###PrivatePolicy)
+- [ComingSoon](###ComingSoon)  
+- [Contact](###Contact)  
+- [PrivatePolicy](###PrivatePolicy) 
+<!-- toc -->
+- - - 
+
+## **Features**  
+
+
+
+- - - 
+
+## **ComingSoon**  
+
+
+
+
+- - - 
+
+## **Contact**  
+
+
+
+
+- - - 
+
+## **PrivatePolicy**  
+> - [PrivatePolicy](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyUS)  
+> - [개인정보처리방침](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyKR)  
 
 - - - 
