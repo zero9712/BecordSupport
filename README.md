@@ -26,6 +26,9 @@ All bug reports, feed backs, questions can be submitted on ISSUES.
 
 <a name="comingsoon"></a>
 ## **ComingSoon**  
+> - Fouls (team/personal)
+> - Flexible substitution
+
 
 <a name="contact"></a>
 ## **Contact**  
@@ -34,5 +37,5 @@ All bug reports, feed backs, questions can be submitted on ISSUES.
 
 <a name="privatepolicy"></a>
 ## **PrivatePolicy**  
-> - [PrivatePolicy](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyUS)  
-> - [개인정보처리방침](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyKR)  
+> - [PrivatePolicy](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyUS) 🇺🇸  
+> - [개인정보처리방침](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyKR) 🇰🇷  
