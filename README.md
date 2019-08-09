@@ -15,10 +15,10 @@ All bug reports, feed backs, questions can be submitted on ISSUES.
 
 
 ## **Table of Contents**  
-- [Features](###Features) 
-- [ComingSoon](###ComingSoon)  
-- [Contact](###Contact)  
-- [PrivatePolicy](###PrivatePolicy) 
+- [Features](###features) 
+- [ComingSoon](###comingsoon)  
+- [Contact](###contact)  
+- [PrivatePolicy](###privatepolicy) 
 <!-- toc -->
 - - - 
 
