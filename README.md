@@ -1,10 +1,7 @@
 ![워터마크용](https://user-images.githubusercontent.com/52590935/61990550-8fb64b00-b07d-11e9-97db-d59b6dcecef2.png)  
 
-_Enjoy more, play more, basketball with **BECORD**.  
-모든 농구인이 더 즐거운 농구를 할 수 있도록, **비코드**가 함께 하겠습니다._  
-
-## **BECORD = Basketball + Record**  
-rewind your game with record our iOS provide at the end of the game  
+### **BECORD = Basketball + Record**  
+rewind your game with record, BECORD provides at the end of the game  
 share the stat with teammates to motivate your team, compete with each other  
 
 # **Support**  
