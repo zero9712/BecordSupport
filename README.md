@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Build-Pass-yellowgreen"> <img src="https://img.shields.io/badge/Version-v1.0.0-brightgreen">  <img src="https://img.shields.io/badge/Sports-Basketball-red"> <img src="https://img.shields.io/badge/Sort-Utility-blue">  <img src="https://img.shields.io/badge/Developer-HET-lightgrey">  
 
 ### _**BECORD = Basketball + Record**_  
-> Alongside with BECORD, share records and motivate yourself for advanced basketball lifestyle.  
+_Alongside with BECORD, share records and motivate yourself for advanced basketball lifestyle._  
 
 # **Support**  
 > This page is to support all **BECORD** users.  
