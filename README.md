@@ -6,6 +6,7 @@
 > Alongside with BECORD, share records and motivate yourself for advanced basketball lifestyle.  
 > 모든 농구인들이 더 즐거운 농구를 할 수 있도록, **비코드**가 함께 하겠습니다.  
 
+&nbsp;
 # **Support**  
 > This page is to support all **BECORD** users.  
 > All bug reports, feed backs, questions can be submitted on Issues.  
@@ -13,7 +14,7 @@
 > **비코드** 사용자를 위한 페이지입니다.  
 > 모든 버그 신고, 피드백, 질문은 Issues(이슈)에 접수 가능합니다.  
 
-
+&nbsp;
 ## **Table of Contents**  
 > - [Features](#features) 
 > - [Coming Soon](#comingsoon)  
@@ -21,6 +22,7 @@
 > - [Privacy Policy](#privacypolicy) 
 
 - - - 
+&nbsp;
 <a name="features"></a>
 ## **Features**  
 
@@ -36,6 +38,7 @@
 > Take a look at the game stat and name the game before you save it.  
 > Save the game and share the record with the team.  
 
+&nbsp;
 <a name="comingsoon"></a>
 ## **Coming Soon**  
 > - Fouls (team/personal)   
@@ -43,12 +46,13 @@
 > - Flexible substitution  
 > you will be able to pick player getting subbed first (will work either order)
 
-
+&nbsp;
 <a name="contact"></a>
 ## **Contact**  
 > - gocks0922@gmail.com  <img src="https://img.shields.io/badge/BECORD-Developer-lightgrey">  
 > - zero971297@gmail.com  <img src="https://img.shields.io/badge/BECORD-Administrator-yellow">
 
+&nbsp;
 <a name="privacypolicy"></a>
 ## **Privacy Policy**  
 > - [Privacy Policy](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyUS) 🇺🇸  
