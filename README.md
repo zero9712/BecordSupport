@@ -36,9 +36,9 @@ _Alongside with BECORD, share records and motivate yourself for advanced basketb
 &nbsp;
 <a name="comingsoon"></a>
 ## **Coming Soon**  
-> - Fouls (team/personal)   
+> - **Fouls** (team/personal)   
 > you will be able to track players' fouls, and the teams'
-> - Flexible substitution  
+> - **Flexible substitution**  
 > you will be able to pick player getting subbed first (will work either order)
 
 &nbsp;
