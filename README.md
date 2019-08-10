@@ -5,7 +5,6 @@
 ### _**BECORD = Basketball + Record**_  
 > Alongside with BECORD, share records and motivate yourself for advanced basketball lifestyle.  
 
-&nbsp;
 # **Support**  
 > This page is to support all **BECORD** users.  
 > All bug reports, feed backs, questions can be submitted on Issues.  
