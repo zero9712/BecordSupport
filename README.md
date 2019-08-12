@@ -44,8 +44,8 @@ _Alongside with BECORD, share records and motivate yourself for advanced basketb
 &nbsp;
 <a name="contact"></a>
 ## **Contact**  
-> - gocks0922@gmail.com  <img src="https://img.shields.io/badge/BECORD-Developer-lightgrey">  
-> - zero971297@gmail.com  <img src="https://img.shields.io/badge/BECORD-Administrator-yellow">
+> - gocks0922@gmail.com  
+> - zero971297@gmail.com  
 
 &nbsp;
 <a name="privacypolicy"></a>
