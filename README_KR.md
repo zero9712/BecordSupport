@@ -4,7 +4,7 @@
 
 # _**BECORD = Basketball + Record**_  
 
-_모든 농구인들이 더 즐거운 농구를 할 수 있도록, 비코드가 함께 하겠습니다._  
+_모든 농구인들이 더 즐거운 농구를 할 수 있도록, **비코드**가 함께 하겠습니다._  
 
 ### _비전_
 
@@ -104,9 +104,7 @@ _아마추어 농구 생태계의 활성화_
 
 ## **소스**
 
-[WannaBasket](https://github.com/het22/WannaBasket)
-
-Xcode Project for BECORD iOS Application
+[WannaBasket](https://github.com/het22/WannaBasket) : Xcode Project for BECORD iOS Application  
 
 &nbsp;
 
