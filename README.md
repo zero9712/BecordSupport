@@ -1,10 +1,10 @@
-![banner image_resized](https://user-images.githubusercontent.com/52590935/62911299-d2d32680-bdbe-11e9-987d-2582baf1613b.png)  
+![copyright by 농구할래](https://user-images.githubusercontent.com/52590935/63007130-06937680-bebb-11e9-9baf-8ba80d070952.png)
 
-<img src="https://img.shields.io/badge/Build-Pass-yellowgreen"> <img src="https://img.shields.io/badge/Version-v1.0.0-brightgreen">  <img src="https://img.shields.io/badge/Sports-Basketball-red"> <img src="https://img.shields.io/badge/Sort-Utility-blue">  <img src="https://img.shields.io/badge/Developer-HET-lightgrey">  
+ <img src="https://img.shields.io/badge/Version-v1.0.0-brightgreen">  <img src="https://img.shields.io/badge/Sports-Basketball-red"> <img src="https://img.shields.io/badge/Sort-Utility-blue">  <img src="https://img.shields.io/badge/Developer-HET-lightgrey">  <img src="https://img.shields.io/badge/Copyright-농구할래-ff69b4"> 
 
 # _**BECORD = Basketball + Record**_  
 
-_Alongside with BECORD, share records and motivate yourself for advanced basketball lifestyle._  
+_Alongside with **BECORD**, share records and motivate yourself for advanced basketball lifestyle._  
 
 ### _Vision_
 
@@ -65,31 +65,42 @@ Save the record and share it.
 [![instruction_3_numbering_resized](https://user-images.githubusercontent.com/52590935/62913745-44fc3900-bdc8-11e9-99d3-65da47bcfa0a.jpg)](https://youtu.be/Mp3CN14y5i0)
 
 &nbsp;
+
+### 4. Record
+
+Example of saved game record.
+
+![record_ex_resized](https://user-images.githubusercontent.com/52590935/63011438-48c0b600-bec3-11e9-9ee5-9f5e8a385369.jpg)
+
+
+
 <a name="comingsoon"></a>
 
 ## **Coming Soon**  
 
 - **Fouls**  
   track personal fouls and team fouls.
+
 - **Name**  
   use longer names with special characters.
+
 - **Flexible substitution**  
   could select the player getting subbed in first.
+
 - **Save game setting**  
   start your game easier with saved setting.
+
 - **Save record**  
   save and load the game record.
 
 &nbsp;
-
 <a name="source"></a>
 
 ## **Source**
 
-[WannaBasket](https://github.com/het22/WannaBasket) : Xcode Project for BECORD iOS Application
+[WannaBasket](https://github.com/het22/WannaBasket) : Xcode Project for BECORD iOS Application  
 
 &nbsp;
-
 <a name="contact"></a>
 
 ## **Contact**  
@@ -104,3 +115,11 @@ Save the record and share it.
 
 - [Privacy Policy](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyUS) 🇺🇸  
 - [개인정보처리방침](https://github.com/zero9712/BecordSupport/blob/master/BecordPrivacyPolicyKR) 🇰🇷  
+
+&nbsp;
+
+&nbsp;
+
+------
+
+ⓒ2019농구할래
