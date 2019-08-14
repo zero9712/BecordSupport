@@ -20,6 +20,7 @@ _Vitalize amateur basketball ecosystem_
 
 This page is to support all **BECORD** users.  
 Bug reports, feed backs, questions can be submitted by Issues.  
+Click [README](https://github.com/zero9712/BecordSupport/blob/master/README.md) for Korean support page.
 
 &nbsp;
 
