@@ -8,11 +8,11 @@ _Alongside with BECORD, share records and motivate yourself for advanced basketb
 
 ### _Vision_
 
-_Vitalize amateur basketball ecosystem_
+_Better basketball_
 
 ### _Mission_
 
-_Bring amateur basketball players and teams together_
+_Vitalize amateur basketball ecosystem_
 
 &nbsp;
 
