@@ -19,7 +19,8 @@ _아마추어 농구 생태계의 활성화_
 # **고객 지원**  
 
 해당 페이지는 모든 **비코드** 유저들을 지원합니다.  
-버그 신고, 피드백, 질문들은 **이슈(Issues)**에 등록 가능합니다.  
+버그 신고, 피드백, 질문들은 **이슈(Issues)** 에 등록 가능합니다.  
+Click [README_EN](https://github.com/zero9712/BecordSupport/blob/master/README_EN.md) for English support page.
 
 &nbsp;
 
